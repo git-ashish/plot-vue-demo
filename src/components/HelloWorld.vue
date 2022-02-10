@@ -103,8 +103,6 @@
 </template>
 
 <script>
-import * as Plot from "@observablehq/plot";
-Plot;
 export default {
   name: "HelloWorld",
   props: {
